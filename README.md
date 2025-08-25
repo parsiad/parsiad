@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=parsiad&hide=commits,contribs,issues,prs&show_icons=true)
+![GitHub stars](https://img.shields.io/github/stars/parsiad?style=social)
